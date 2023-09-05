@@ -86,7 +86,7 @@ After clicking "Generate Images," you will receive 1024 x 1024  images with Base
 
 <table>
   <tr>
-    <td> <img src="images/image1.png" alt="Image 1 description" style="width: 300px;"/> </td>
+    <td> <img src="[images/image1.png](https://github.com/Umeshbalande/Text_to_image_DallE/blob/main/c1.jpg)" alt="Image 1 description" style="width: 300px;"/> </td>
     <td> <img src="images/image2.png" alt="Image 2 description" style="width: 300px;"/> </td>
     <td> <img src="images/image3.png" alt="Image 3 description" style="width: 300px;"/> </td>
   </tr>
