@@ -83,14 +83,10 @@ After clicking "Generate Images," you will receive 1024 x 1024  images with Base
 - **Number of images**: 3
 - **Size**: 256x256
 - **Output Format**: b64_json
+![c1](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/ba586da1-cfe1-4f8e-b0ae-1491ae7651b6)
+![c2](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/ebe344cd-fcbc-41f2-9385-8eac86a07d02)
+![c3](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/bdb773c2-8936-4518-a018-cf64361c1b64)
 
-<table>
-  <tr>
-    <td> <img src="[images/image1.png](https://github.com/Umeshbalande/Text_to_image_DallE/blob/main/c1.jpg)" alt="Image 1 description" style="width: 300px;"/> </td>
-    <td> <img src="![image](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/2cc29c54-0164-4cb4-be6e-d366a23c1665)" alt="Image 2 description" style="width: 300px;"/> </td>
-    <td> <img src="images/image3.png" alt="Image 3 description" style="width: 300px;"/> </td>
-  </tr>
-</table>
 
 After clicking "Generate Images," you will receive three 256x256 images of cats sitting on chairs, displayed on the Streamlit interface.
 
