@@ -64,9 +64,9 @@ This project uses Streamlit to create a simple web application that takes a text
 - **Output Format**: URL
 ![sunset](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/9c82d4a1-5587-440b-a146-866b2b85bfbf)
 
-After clicking "Generate Images," you will see a single 512x512 image of a sunset over a mountain.
+After clicking "Generate Images," you will see a single  1024 x 1024 image of a sunset over a mountain.
 
-### Generate multiple 256x256 images with Base64 JSON output
+### Generate  1024 x 1024  images with Base64 JSON output
 
 - **Prompt**: "realistic anime girl in maid dress with coal colored hair in battle pose with spear look at viever, Highres illustration"
 - **Number of images**: 1
@@ -74,7 +74,21 @@ After clicking "Generate Images," you will see a single 512x512 image of a sunse
 - **Output Format**: b64_json
 ![anime](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/46be7af1-6017-48a0-8c7b-52e4745ad73a)
 
+After clicking "Generate Images," you will receive 1024 x 1024  images with Base64 JSON output, displayed on the Streamlit interface.
+
+
+### Generate multiple 256x256 images with Base64 JSON output
+
+- **Prompt**: "A cat sitting on a chair."
+- **Number of images**: 3
+- **Size**: 256x256
+- **Output Format**: b64_json
+
+|![](![c1](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/454db7ca-8b32-41f6-bd43-ebca9cff2a35))|![](![c2](https://github.com/Umeshbalande/Text_to_image_DallE/assets/3708552/e9bd976f-c9d3-49ae-9ab6-61a97cf9fe0f))|
+|:-:|:-:|
+|text-1|text-2|
 After clicking "Generate Images," you will receive three 256x256 images of cats sitting on chairs, displayed on the Streamlit interface.
+
 
 ## API Reference
 
